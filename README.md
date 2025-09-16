@@ -42,10 +42,10 @@ if __name__ == "__main__":
 
 # Как запустить
 
-Клонировать репозиторий:
+<p>Клонировать репозиторий:
 
-git clone https://github.com/rionkin84-rgb/armstrong-numbers.git
-cd armstrong-numbers
+<p>git clone https://github.com/rionkin84-rgb/armstrong-numbers.git
+<p>cd armstrong-numbers
 
 
 Запустить программу:
